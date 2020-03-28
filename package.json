@@ -1,0 +1,15 @@
+{
+  "name": "day2_cssjsclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
